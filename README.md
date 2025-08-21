@@ -4,7 +4,7 @@
 In this mini-project, we analyze a bike rental company in London.
 Our aim is to explore the dynamics of rental activity, to investigate its relationship with weather conditions and weekends/holidays, and to explain several anomalies seen in the data.
 
-**Dataset:**
+### Dataset:
 **Source:** Educational project dataset
 **Period:** From January 4, 2015 to January 3, 2017
 **Key variables:** Time, number of bike rentals (hourly), holiday / weekend flags, temperature, season, weather conditions
