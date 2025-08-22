@@ -8,7 +8,8 @@ Our aim is to explore the dynamics of rental activity, to investigate its relati
 **Source:** Educational project dataset  
 **Period:** From January 4, 2015 to January 3, 2017  
 **Key variables:** Time, number of bike rentals (hourly), holiday / weekend flags, temperature, season, weather conditions  
-**Dataset size:** 17,414 rows * 10 columns  
+**Dataset size:** 17,414 rows * 10 columns
+
 ![df_head](images/df_head.png)
 
 ### 🛠️ Technologies Used:
@@ -35,7 +36,9 @@ Libraries: pandas, numpy, seaborn, matplotlib
 
 ### 📈 Visualizations:
 ![barplot_week_day](images/barplot_week_day.png)  
+
 ![barplot_hour_int](images/barplot_hour_int.png)  
+
 ![heatmap_weather_month](images/heatmap_weather_month.png)  
 
 ### 📌 Project Notes:
