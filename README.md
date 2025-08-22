@@ -21,6 +21,7 @@ Libraries: pandas, numpy, seaborn, matplotlib
 ### 📁 Repository Structure:
 1. bike-rental-analysis.ipynb - working file
 2. london.csv - dataset
+3. images - screenshots for visualizations
 
 ### 🔍 Analysis Process:
 * Conducted preliminary analysis (EDA) and data preprocessing
