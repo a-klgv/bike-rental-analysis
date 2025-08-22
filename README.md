@@ -42,4 +42,4 @@ Libraries: pandas, numpy, seaborn, matplotlib
 ![heatmap_weather_month](images/heatmap_weather_month.png)  
 
 ### 📌 Project Notes:
-This is an educational project for learning data analysis and visualization techniques.
+***This is an educational project for learning data analysis and visualization techniques.***
