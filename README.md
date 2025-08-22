@@ -1,6 +1,7 @@
 # Bike Rental Analysis
 
-### [![Open Analysis](https://img.shields.io/badge/📊-Open_Analysis-blue?style=for-the-badge)](bike-rental-analysis.ipynb)
+### [![Open Analysis](https://img.shields.io/badge/📊-Open_Analysis-blue?style=for-the-badge)](bike-rental-analysis.ipynb)  
+*Click above to view the complete data analysis with visualizations and insight*
 
 ### 🎯 Objective:
 In this mini-project, we analyze a bike rental company in London.
