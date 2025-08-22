@@ -13,6 +13,10 @@ Our aim is to explore the dynamics of rental activity, to investigate its relati
 ### 🛠️ Technologies Used:
 Libraries: pandas, numpy, seaborn, matplotlib
 
+### 📁 Repository Structure:
+1. bike-rental-analysis.ipynb - working file
+2. london.csv - dataset
+
 ### 🔍 Analysis Process:
 * Conducted preliminary analysis (EDA) and data preprocessing  
 
@@ -29,10 +33,6 @@ Libraries: pandas, numpy, seaborn, matplotlib
 * This date coincides with a 24-hour strike by London Underground workers, which likely increased demand for alternative transportation options, including rentals.
 
 ### 📈 Visualizations:
-
-### 📁 Repository Structure:
-1. bike-rental-analysis.ipynb - working file
-2. london.csv - dataset
 
 ### 📌 Project Notes:
 This is an educational project for learning data analysis and visualization techniques.
